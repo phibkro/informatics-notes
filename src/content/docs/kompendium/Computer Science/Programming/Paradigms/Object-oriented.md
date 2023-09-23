@@ -1,0 +1,8 @@
+- "Object-oriented programming imposes discipline upon indirect transfer of control"
+- Inheritance ? / Composition
+- Encapsulation ?
+- Polymorphism
+	- Provision of a single interface to entities of different types
+	- Plugin architecture
+		- IO devices become plugins
+		- Programs should be device independent
