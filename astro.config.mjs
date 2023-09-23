@@ -8,8 +8,10 @@ export default defineConfig({
       title: "My Informatics Degree in docs",
       defaultLocale: "root",
       social: {
-        github: "https://github.com/withastro/starlight",
+        github: "https://github.com/phibkro",
+        linkedin: "https://www.linkedin.com/in/philib-krogh/",
       },
+      lastUpdated: true,
       sidebar: [
         {
           label: "Begynn her!",
