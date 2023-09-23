@@ -1,4 +1,5 @@
 import starlight from "@astrojs/starlight";
+import vercelStatic from "@astrojs/vercel/static";
 import { defineConfig } from "astro/config";
 
 // https://astro.build/config
@@ -15,24 +16,30 @@ export default defineConfig({
       sidebar: [
         {
           label: "Begynn her!",
-          autogenerate: { directory: "introduksjon" },
+          autogenerate: {
+            directory: "introduksjon",
+          },
         },
         {
           label: "Emner",
           collapsed: true,
-          autogenerate: { directory: "emner" },
+          autogenerate: {
+            directory: "emner",
+          },
         },
         {
           label: "Kompendium",
           collapsed: true,
-          autogenerate: { directory: "kompendium" },
+          autogenerate: {
+            directory: "kompendium",
+          },
         },
       ],
       locales: {
         /* root: {
-          label: "English",
-          lang: "en",
-        }, */
+        label: "English",
+        lang: "en",
+      }, */
         root: {
           label: "Norsk",
           lang: "no",
@@ -40,4 +47,6 @@ export default defineConfig({
       },
     }),
   ],
+  output: "server",
+  adapter: vercelStatic(),
 });
