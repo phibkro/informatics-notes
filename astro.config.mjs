@@ -5,7 +5,7 @@ import { defineConfig } from "astro/config";
 export default defineConfig({
   integrations: [
     starlight({
-      title: "My Informatics Degree in docs",
+      title: "Informatikk notater",
       defaultLocale: "root",
       social: {
         github: "https://github.com/phibkro",
