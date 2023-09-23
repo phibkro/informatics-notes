@@ -1,0 +1,18 @@
+---
+title: IT2805
+---
+
+[Tilbake til oversikt](../README.md)
+
+This is a very hands on course with both exercises and projects
+
+5 assignments (4 out of 5 HAVE to be passed)
+
+Final Exam (100% of your grade)
+
+The history of internet will **_NOT_** be apart of the exam
+
+## Video ressurser
+
+- [What is the world wide web?](https://youtu.be/J8hzJxb0rpc?si=hGL0eUXI94lNogNI)
+- [The hidden network that makes the internet possible - Sajan Saini](https://youtu.be/er3v4PVNQqE?si=ZUTcTZlOFCqsRu6a)

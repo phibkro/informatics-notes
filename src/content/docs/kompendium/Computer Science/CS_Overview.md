@@ -1,4 +1,6 @@
-# Computer Science overview
+---
+title: Computer Science overview
+---
 
 ## Programming
 

@@ -1,4 +1,6 @@
-# Working in a team
+---
+title: Working in a team
+---
 
 [Agile](Agile%20development%20methodology.md)
 

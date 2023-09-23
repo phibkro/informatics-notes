@@ -1,3 +1,6 @@
+---
+title: Functional
+---
 - "Functional programming imposes discipline on assignment"
 # Brainstorm
 - Haskell

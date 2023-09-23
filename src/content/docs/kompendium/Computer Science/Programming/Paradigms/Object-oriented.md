@@ -1,3 +1,6 @@
+---
+title: Object-oriented
+---
 - "Object-oriented programming imposes discipline upon indirect transfer of control"
 - Inheritance ? / Composition
 - Encapsulation ?

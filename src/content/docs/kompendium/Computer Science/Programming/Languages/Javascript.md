@@ -1,3 +1,6 @@
+---
+title: Javascript
+---
 - Scripting language
 - Just-in-time (JIT) compiled
 - Dynamic typing

@@ -1,4 +1,6 @@
-# Monad
+---
+title: Monad
+---
 
 - is a structure that implements bind, a map method that wraps the output in a type
 - is a design pattern in which [pipeline implementation](../Anti-patterns/Pipeline%20implementation.md) are abstracted by wrapping a value in type

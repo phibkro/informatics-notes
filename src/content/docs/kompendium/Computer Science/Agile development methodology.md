@@ -1,4 +1,6 @@
-# Agile development methodology
+---
+title: Agile development methodology
+---
 
 ## Agile manifesto
 

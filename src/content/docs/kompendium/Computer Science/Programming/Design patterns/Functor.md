@@ -1,4 +1,6 @@
-# Functor
+---
+title: Functor
+--- 
 
 - is a structure which supports the map method.
   - Examples: Lists and binary trees.

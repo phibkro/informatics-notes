@@ -1,4 +1,6 @@
-# Dependency injection
+---
+title: Dependancy injection
+---
 
 - is a design pattern where objects or functions that use other objects or functions are passed in as an argument rather than coupling them directly into their implementation
 - decouples the usage of an object from its creation

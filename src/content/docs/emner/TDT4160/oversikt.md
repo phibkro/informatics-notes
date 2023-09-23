@@ -1,0 +1,76 @@
+---
+title: TDT4160
+---
+[Tilbake til oversikt](../README.md)
+Ofte forkortet til "DatDig"
+
+- Structured Computer Organization
+  - Fokus på kapittel 1 til og med 6.1 pluss 7 og 8
+
+# Pensumliste
+
+- Structured Computer Organization
+  - 6\. utgave
+
+# Uoffisielle video ressurser
+
+Computerphile
+
+- [How Computer Memory Works](https://youtube.com/playlist?list=PLzH6n4zXuckoxFPyhsMOYMGqyZOeN2SDJ&si=x5E5w5wg02c06zpB)
+- [Babbage, Lovelace & the analytical engine](https://www.youtube.com/playlist?list=PLzH6n4zXuckqKMcpQANsyPJId7jkxq7g8)
+- [15 and the Hexadecimal](https://youtu.be/9xbJ3enqLnA?si=ZdU1SWa-hzWmZ_M_)
+- [255 and Pac-man](https://youtu.be/umYvFdU54Po?si=GU43oC2BRLShJ1HX)
+- [Turing Machines Collection](https://youtube.com/playlist?list=PLzH6n4zXuckrEzV0CB1xXbSdsP_a7VUoK&si=k8Z--Dv7hTXRoQkg)
+
+Tom Scott
+
+- [The Basics](https://youtube.com/playlist?list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha&si=LDbIqC2qgGpTj8hg)
+  - [The Fetch Execute Cycle](https://youtu.be/Z5JC9Ve1sfI?si=scKpKSnnGlIoXz9x)
+  - [How Computers Compress Text: Huffman Coding and Huffman Trees](https://youtu.be/JsTptu56GM8?si=VyApjKw2-5ocrwjb)
+
+Ted Ed
+
+- [Think like a coder](https://www.youtube.com/playlist?list=PLJicmE8fK0EgogMqDYMgcADT1j5b911or)
+- [How computer memory works](https://youtu.be/p3q5zWCw8J4?si=JkzrM20l84h01GE-)
+
+Crash Course
+
+- [Computer Science Playlist](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=23cVKIy23JW3yIFq)
+
+## Seksjoner
+
+Seksjonene her er satt opp til pensum gått gjennom i forelesningene.
+Seksjonnavnstrukturen er satt opp som
+
+{seksjonnavn}[relevante kapitler]
+
+## Introduksjon [1,2]
+
+## Instruksjonssett [5]
+
+## Single-cycle (bottom-up, top down) [2.1,4.1]
+
+## Digitalteknikk [3+Kompendium]
+
+- [How Computer Memory Works](https://youtube.com/playlist?list=PLzH6n4zXuckoxFPyhsMOYMGqyZOeN2SDJ&si=x5E5w5wg02c06zpB)
+
+- [Boolean Logic & Logic Gates](https://youtu.be/gI-qXk7XojA?si=GGFaqYRWtsfgCX1p)
+- [How Computers Calculate - the ALU](https://youtu.be/1I5ZMmrOfnA?si=EnLRyHWamUQn1tre)
+
+## Single-cycle + interrupts, traps [2.1,4.1+5.6.5]
+
+## Pipeline [4.4.4 + hele 4]
+
+## Enda høyere ytelse [4.5.2,4.5.3 + hele 4]
+
+## Memory + cache [4.5]
+
+## Virtuelt minne [6.1]
+
+## Flerkjerneprosessorer og minnesystemene deres
+
+## Grafikkprosessorer, og akseleratorer
+
+## Sikkerhet: vi studerer kjente hull
+
+## Oppsummering + ønskereprise
