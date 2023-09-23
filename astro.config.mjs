@@ -48,5 +48,7 @@ export default defineConfig({
     }),
   ],
   output: "server",
-  adapter: vercelStatic(),
+  adapter: vercelStatic({
+    imageService: true,
+  }),
 });
