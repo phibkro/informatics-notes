@@ -8,7 +8,6 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "Informatikk notater",
-      defaultLocale: "root",
       social: {
         github: "https://github.com/phibkro",
         linkedin: "https://www.linkedin.com/in/philib-krogh/",
@@ -36,16 +35,17 @@ export default defineConfig({
           },
         },
       ],
+      /* defaultLocale: "root",
       locales: {
-        /* root: {
+        root: {
         label: "English",
         lang: "en",
-      }, */
+      },
         root: {
           label: "Norsk",
           lang: "no",
         },
-      },
+      }, */
     }),
   ],
   output: "static",
