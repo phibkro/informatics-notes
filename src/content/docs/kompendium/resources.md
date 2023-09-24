@@ -12,6 +12,7 @@ title: Resources
 - <https://fonts.google.com/noto/specimen/Noto+Color+Emoji>
   - <https://github.com/googlefonts/noto-emoji>
 - [WebGL API](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
+- <https://tanstack.com/>
 
 ### Technologies
 
