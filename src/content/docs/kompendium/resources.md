@@ -4,7 +4,8 @@ title: Resources
 
 ## Web development
 
-[Roadmaps](https://roadmap.sh/)
+- [Roadmaps](https://roadmap.sh/)
+- <https://web.dev/>
 
 ## Inspo
 
