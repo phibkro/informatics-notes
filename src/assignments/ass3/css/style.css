@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: white;
+  font-family: arial, sans-serif;
+}
+
+#screen {
+  position: relative;
+}
+
+video,
+#video-stand-in {
+  height: auto;
+  width: 100%;
+}
+video {
+  @media (max-width: 940px) {
+    display: none;
+  }
+}
+#video-stand-in {
+  @media (min-width: 940px) {
+    display: none;
+  }
+}
+
+#title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#title > img {
+  width: 100%;
+}
+
+/* 
+Left and right margin of 10% total or separately?
+The assignment doesn't clarify
+*/
+article {
+  margin: 5vh 5%;
+}
+
+p {
+  color: black;
+  font-size: 16px;
+  line-height: 1.5;
+}
