@@ -9,8 +9,8 @@ $$
 
 ## ($\epsilon$, $\delta$) definition of limits
 
-![E](EDelta1.png)
-![E2](EDelta2.png)
+![E](./EDelta1.png)
+![E2](./EDelta2.png)
 
 ## L'Hôpital's rule
 

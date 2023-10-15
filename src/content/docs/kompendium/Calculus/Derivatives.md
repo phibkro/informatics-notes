@@ -24,11 +24,11 @@ $$
 
 ### Product rule
 
-![Product rule](Product%20rule.png)
+![Product rule](./Product_rule.png)
 
 ### Chain rule
 
-![Chain rule](Chain%20rule.png)
+![Chain rule](./Chain_rule.png)
 
 ## Exponents and Euler's number
 
@@ -45,4 +45,4 @@ $$
 
 Suppose you have a set of points defined by the expression $x^2 + y^2 = 5^2$. This set of points forms a circle. How do you take the derivative of a point of that range? $x^2 + y^2 = 5^2$ is not a function.
 
-![Implicit differentiation](Implicit%20differentiation.png)
+![Implicit differentiation](./Implicit_differentiation.png)
