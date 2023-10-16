@@ -34,6 +34,7 @@ title: Resources
 
 ### Portfolios
 
+- <https://sarahriedlinger.com/>
 - <https://www.ansubkhan.com/>
 - <https://naxo.dev/>
 - <https://gkoberger.com/>
