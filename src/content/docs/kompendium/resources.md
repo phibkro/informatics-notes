@@ -2,9 +2,21 @@
 title: Resources
 ---
 
+## Computer Science
+
+- <https://teachyourselfcs.com/>
+- <https://github.com/ossu/computer-science>
+
 ## Web development
 
-[Roadmaps](https://roadmap.sh/)
+- [Roadmaps](https://roadmap.sh/)
+- <https://web.dev/>
+- <https://grugbrain.dev/>
+
+### CSS Resets
+
+- <https://tailwindcss.com/docs/preflight>
+- <https://github.com/sindresorhus/modern-normalize>
 
 ## Inspo
 
@@ -13,6 +25,30 @@ title: Resources
   - <https://github.com/googlefonts/noto-emoji>
 - [WebGL API](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 - <https://tanstack.com/>
+- <https://motherfuckingwebsite.com/>
+- <https://arngren.net/>
+- <https://vercel.lol/>
+- <https://expensive.toys/404>
+- <https://fauux.neocities.org/>
+- <https://ourworldofpixels.com/>
+
+### Portfolios
+
+- <https://sarahriedlinger.com/>
+- <https://www.ansubkhan.com/>
+- <https://naxo.dev/>
+- <https://gkoberger.com/>
+- <https://bruno-simon.com/>
+- <https://thegeekdesigner.com/>
+- <https://lynnandtonic.com/archive/>
+- <https://minhpham.design/>
+- <https://danabra.mov/>
+- <https://dimden.dev/>
+- <https://brittanychiang.com/>
+
+#### Minimal
+
+- <https://antfu.me/>
 
 ### Technologies
 

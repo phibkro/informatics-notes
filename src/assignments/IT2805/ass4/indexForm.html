@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tax form</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body
+    style="
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    "
+  >
+    <form
+      action="https://folk.ntnu.no/anderobs/webtek/receive_form.php"
+      method="post"
+      style="display: flex; flex-direction: column; width: 30ch; gap: 1ch"
+    >
+      <label for="name">
+        Real name:
+        <input
+          type="text"
+          name="name"
+          id="name"
+          placeholder="Peter Parker"
+          required
+        />
+      </label>
+
+      <label for="gender">
+        Gender:
+        <label for="male">
+          <input type="radio" name="gender" id="male" value="male" required />
+          Male
+        </label>
+        <label for="female">
+          <input
+            type="radio"
+            name="gender"
+            id="female"
+            value="female"
+            required
+          />
+          Female
+        </label>
+      </label>
+
+      <label for="email">
+        Email:
+        <input
+          type="email"
+          name="email"
+          id="email"
+          placeholder="spinning@web.com"
+          required
+        />
+      </label>
+
+      <label for="birthdate">
+        Birthdate: (before 1988)
+        <input
+          type="date"
+          name="birthdate"
+          id="birthdate"
+          placeholder="28.12.1984"
+          required
+          max="1988-01-01"
+        />
+      </label>
+
+      <label for="hero">
+        Hero name
+        <input
+          type="text"
+          name="hero"
+          id="hero"
+          placeholder="Spider-Man"
+          required
+        />
+      </label>
+
+      <label for="spandex">
+        Do you wear spandex?
+        <input type="checkbox" name="spandex" id="spandex" />
+      </label>
+
+      <label for="strength">
+        Strength: (1-10)
+        <input
+          type="number"
+          name="strength"
+          id="strength"
+          min="1"
+          max="10"
+          required
+        />
+      </label>
+
+      <label for="speed">
+        Speed: (1-10)
+        <input
+          type="number"
+          name="speed"
+          id="speed"
+          min="1"
+          max="10"
+          required
+        />
+      </label>
+
+      <label for="intelligence">
+        Intelligence: (1-10)
+        <input
+          type="number"
+          name="intelligence"
+          id="intelligence"
+          min="1"
+          max="10"
+          required
+        />
+      </label>
+
+      <button type="submit">Submit tax form</button>
+    </form>
+  </body>
+</html>

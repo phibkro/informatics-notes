@@ -1,0 +1,36 @@
+load_data:
+    li a0, 2
+    li a1, 2
+    li a2, 4
+    li a3, 5
+    li a4, 8
+    li a5, 9
+main:
+    # prepare variables a0, a2, a4 "as" A, B, C
+    add a0, a0, a1 # a0 = a0 + a1
+    add a2, a2, a3 # a2 = a2 + a3
+    add a4, a4, a5 # a4 = a4 + a5
+    # simulate a function call
+    jal ra, compareABC # stores return address then jumps to compareABC
+    j end # jump to end
+    
+compareABC:
+    bge a2, a0, BisGreater # if (a2 > a0) then jump to BisGreater
+    
+    bge a4, a0 CisGreatest # if (a4 > a0) then jump to CisGreatest
+    
+    # if B nor C is greater than A then A is greatest
+    ret # jump to return address
+BisGreater:
+    # if B > A then A can be safely overwritten since either C or B is greatest
+    mv  a0, a2 # a0 = a2
+    # if C > B then C > A as well and is thus the greatest
+    bge a4, a0, CisGreatest # if (a0(which now is a2) < a4) then jump to CisGreatest
+    # if B is greater than C then B is greatest
+    ret # jump to return address
+CisGreatest:
+    # if C is greatest then it can safely overwrite A
+    mv  a0, a4 # a0 = a4
+    ret # jump to return address
+end:
+    li a7, 0 # irrelevant code so ripes identifies the "end" label
