@@ -31,6 +31,7 @@ title: Resources
 - <https://expensive.toys/404>
 - <https://fauux.neocities.org/>
 - <https://ourworldofpixels.com/>
+- <https://fakestoreapi.com/>
 
 ### Portfolios
 
