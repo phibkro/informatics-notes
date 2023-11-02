@@ -41,6 +41,8 @@ function addTask(text, ulElement) {
     text: text,
     added: new Date(),
   });
+
+  console.log(tasks);
 }
 function createTaskElement(text) {
   const taskElement = document.createElement("li");
