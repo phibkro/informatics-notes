@@ -73,13 +73,13 @@ These help compile deliverables
 is a detailed description of a typical user.
 These make it easier to visualize what people need, want and how they behave.
 
-![User persona](./assets/User%20persona.png)
+![User persona](./assets/User_persona.png)
 
 ##### User scenarios
 
 About people accomplishing a task
 
-![User scenario](./assets/User%20scenario.png)
+![User scenario](./assets/User_scenario.png)
 
 Understand users
 
