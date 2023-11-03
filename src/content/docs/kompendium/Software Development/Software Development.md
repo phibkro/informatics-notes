@@ -1,8 +1,8 @@
 ---
-title: Working in a team
+title: Software Development
 ---
 
-[Agile](Agile%20development%20methodology.md)
+[Agile](./Agile%20development%20methodology.md)
 
 ## Video resources
 

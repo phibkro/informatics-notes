@@ -1,0 +1,70 @@
+/* Kevin Powell's CSS reset */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  font: inherit;
+}
+
+html {
+  color-scheme: dark light;
+}
+
+body {
+  min-height: 100vh;
+}
+
+img,
+picture,
+svg,
+video {
+  display: block;
+  max-width: 100%;
+}
+/* ------------------------ */
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+h1 {
+  font-size: 3rem;
+}
+h2 {
+  font-size: 2.5rem;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  padding: 2rem;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+
+  #todo_form {
+    display: flex;
+    gap: 1rem;
+  }
+
+  #todo_list {
+    width: 100%;
+    list-style-type: none;
+    li {
+      display: flex;
+      gap: 0.25rem;
+    }
+  }
+  input[type="checkbox"]:checked + label {
+    text-decoration: line-through;
+  }
+}
