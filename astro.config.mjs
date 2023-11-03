@@ -22,16 +22,16 @@ export default defineConfig({
         },
         {
           label: "Emner",
-          collapsed: true,
           autogenerate: {
             directory: "emner",
+            collapsed: true,
           },
         },
         {
           label: "Kompendium",
-          collapsed: true,
           autogenerate: {
             directory: "kompendium",
+            collapsed: true,
           },
         },
       ],
