@@ -36,6 +36,9 @@ The CPU tries to guess what the next instruction will be, and executes it before
 
 ### Videos
 
+- [Spectre attack explained like you're 5](https://youtu.be/q3-xCvzBjGs?si=jNL7gXQzKGuKTFDV)
+- [Meltdown attack explained like you're 5](https://youtu.be/JSqDqNysycQ?si=B40RwYIFDnFGdbnb)
+
 - [Meltdown and Spectre in 3 Minutes](https://youtu.be/syAdX44pokE?si=wZnqxtDOTDQsEqDn)
 - [Meltdown & Spectre vulnerabilities - Simply Explained](https://youtu.be/bs0xswK0eZk?si=KVZXAT9XYHAvGpjb)
 - [Nearly All CPUs Vulnerable: Explaining Meltdown & Spectre](https://youtu.be/-B1OGoVZcUQ?si=ETtqjsfi4oc2Xho4)
