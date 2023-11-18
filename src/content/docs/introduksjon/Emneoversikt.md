@@ -61,3 +61,12 @@ Kompendiumet inkluderer pensum av:
 | [IT2901](/emner/it2901/it2901)     | Informatikk prosjektarbeid 2                                      | 6. semester | Obligatorisk |
 [TDT4240](/emner/tdt4240/tdt4240) | Programvarearkitektur | 6. semester   | M2A |
 | [](/emner/)     |                                         | 6. semester | M2A
+
+## Alternatives
+
+- [Datadrevet Programvare](https://www.ntnu.no/studier/emner/IT3212/#tab=omEmnet)
+- [Informasjonssystemer](https://www.ntnu.no/studier/emner/TDT4175/#tab=omEmnet)
+- [Kryptoprotokoller og anvendelser](https://www.ntnu.no/studier/emner/TM8107/2023/1#tab=omEmnet)
+- [Grafikk og visualisering](https://www.ntnu.no/studier/emner/TDT4230/2023/1#tab=omEmnet)
+- [Grunnleggende visuell behandling](https://www.ntnu.no/studier/emner/TDT4195/2023/1#tab=omEmnet)
+- [Big data arkitektur](https://www.ntnu.no/studier/emner/TDT4305/2023/1#tab=omEmnet)
